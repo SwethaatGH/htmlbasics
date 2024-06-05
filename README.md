@@ -16,7 +16,6 @@ kanban.html
 
 
 Note:This is an amateur attempt and is uploaded here only to help beginners get started.
-The reports uploaded here were done as part of my Application Development Laboratory Course.
 
 
  
